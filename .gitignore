@@ -1,0 +1,8 @@
+# Environment variables
+.env
+# Virtual environment
+mongodb-venv/
+
+# Python cache
+__pycache__/
+*.pyc
